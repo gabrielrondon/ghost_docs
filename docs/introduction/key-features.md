@@ -1,0 +1,7 @@
+- **Zero-Knowledge Proof Generation**: Create cryptographic proofs that verify token ownership without revealing the actual balance
+- **Anonymous Verification**: Share proofs through unique links that can be verified by third parties without revealing user identity
+- **AI-Enhanced Explanations**: Get plain-language summaries of what each proof demonstrates
+- **Internet Computer Integration**: Built on the Internet Computer blockchain with native ICP token support
+- **End-to-End Testing**: Comprehensive test suite to validate the full proof lifecycle
+- **Privacy Preservation**: All sensitive operations happen client-side to maintain privacy
+- **User-Friendly Interface**: Intuitive UI designed for users of all technical levels

@@ -1,0 +1,3 @@
+Ghost (The ZK Notary Agent) is a privacy-focused application that enables users to create and verify Zero-Knowledge Proofs (ZKPs) on the Internet Computer blockchain. It serves as a bridge between complex cryptographic technology and everyday use cases, allowing users to prove ownership of digital assets without revealing sensitive information such as their account balances or complete identities.
+
+The project combines cutting-edge zero-knowledge cryptography with artificial intelligence to provide easily understandable explanations of what each proof demonstrates. This combination makes privacy technology more accessible to users who may not have technical backgrounds in cryptography.
