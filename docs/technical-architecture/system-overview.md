@@ -1,6 +1,8 @@
+# System Overview
+
 Ghost is built as a modern web application that interfaces with the Internet Computer blockchain. The system architecture follows a modular design with clear separation of concerns:
 
-![Ghost System Architecture](https://i.imgur.com/2pApLMl.png)
+<figure><img src="../.gitbook/assets/Ghost - C4 L1 Diagram.png" alt=""><figcaption></figcaption></figure>
 
 The architecture consists of these primary layers:
 
